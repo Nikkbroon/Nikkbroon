@@ -27,3 +27,17 @@ This GitHub documents my continuing development through:
 - Cyber security projects and practical labs
 
 My aim is not simply to learn how systems can be compromised, but to understand why vulnerabilities exist, the risks they create and how organisations can build more secure and resilient technology.
+
+You could add a short closing section like this:
+
+## Connect With Me
+
+I have also added my LinkedIn profile and would be very happy to connect with like-minded cyber security and penetration-testing professionals.
+
+https://www.linkedin.com/in/nick-brown2023/
+
+I am always looking to learn, develop my technical skills and gain insight from others working across cyber security, infrastructure and offensive security.
+
+If you would like to connect, share feedback or discuss cyber security and penetration testing, please feel free to reach out through LinkedIn.
+
+If you want, I can also make this sound a little more confident and recruiter-focused.
