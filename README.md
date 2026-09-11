@@ -37,5 +37,3 @@ https://www.linkedin.com/in/nick-brown2023/
 I am always looking to learn, develop my technical skills and gain insight from others working across cyber security, infrastructure and offensive security.
 
 If you would like to connect, share feedback or discuss cyber security and penetration testing, please feel free to reach out through LinkedIn.
-
-If you want, I can also make this sound a little more confident and recruiter-focused.
