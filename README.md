@@ -1,7 +1,5 @@
 # Hi, I'm Nick 👋
 
-https://www.linkedin.com/in/nick-brown2023/
-
 I am a Cyber Security student with a particular passion for penetration testing, IT infrastructure and understanding how technology can be protected against evolving security threats.
 
 My interest in cyber security began in the mid-1990s when my Windows 95 computer suffered its first virus infection. Rather than simply fixing the problem, I became fascinated by how it had happened, how computers could be compromised and how they could be better protected.
