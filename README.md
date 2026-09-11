@@ -26,8 +26,6 @@ This GitHub documents my continuing development through:
 
 My aim is not simply to learn how systems can be compromised, but to understand why vulnerabilities exist, the risks they create and how organisations can build more secure and resilient technology.
 
-You could add a short closing section like this:
-
 ## Connect With Me
 
 I have also added my LinkedIn profile and would be very happy to connect with like-minded cyber security and penetration-testing professionals.
